@@ -1,8 +1,8 @@
 ### Hi, I'm Phanidhar 👋👋
 
 
-- 🔭 I’m currently working on Computer Vision.
-- 🌱 I’m currently learning web-development.
+- 🔭 I’m currently working on Web3.0.
+- 🌱 I’m currently learning Full-StackBlockchain development.
 - 👯 I’m looking to collaborate on open source.
 - 🤔 I’m looking for help with Block-Chain.
 - 💬 Ask me about Block-Chain or any tech related stuff and front-end development.

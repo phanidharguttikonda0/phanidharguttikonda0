@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Smart contract auditing, Solana Blockchain**
 
-- 💬 Ask me about **Solidity,Javascript,Java,Hardhat**
+- 💬 Ask me about **Solidity,Javascript,Java,Truffle suite, Rust**
 
 - 📫 How to reach me **phanidharguttikonda0@gmail.com**
 

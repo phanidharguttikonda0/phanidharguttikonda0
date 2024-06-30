@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Phanidhar Reddy Guttikonda</h1>
 <img align="left" alt="Man typing" width=400 src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-<h3 align="center">I am a proficient full-stack blockchain developer with expertise in Solidity, Rust, JavaScript, as well as Java and Python. I excel in problem-solving and have a strong command of front-end development using React. My toolkit includes tools like Hardhat, Truffle Suite, and Remix, and I am well-versed in Web3.js and ethers.js libraries. I have a deep understanding of the Ethereum blockchain and am in the early stages of learning about the Solana blockchain. My career goal is to become a blockchain architect.</h3>
+<h3 align="center">I am a proficient Data Scientist and full-stack developer with expertise in Python, Statistics,JavaScript, React as well as Java. I excel in problem-solving and have a strong command of front-end development using React.  I have a deep understanding of the Machine Learning and Deep Learning Concepts and am in the early stages of learning about the Deep Learning. My career goal is to become a Data Scientist .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phanidharguttikonda0&label=Profile%20views&color=0e75b6&style=flat" alt="phanidharguttikonda0" /> </p>
 
@@ -11,11 +11,11 @@
 
 <p align="left"> <a href="https://twitter.com/phani_developer" target="blank"><img src="https://img.shields.io/twitter/follow/phani_developer?logo=twitter&style=for-the-badge" alt="phani_developer" /></a> </p>
 
-- 🔭 I’m currently working on **Lending and Borrowing dApp**
+- 🔭 I’m currently working on Chat with pdf
 
-- 🌱 I’m currently learning **Smart contract auditing, Solana Blockchain**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
-- 💬 Ask me about **Solidity,Javascript,Java,Truffle suite, Rust**
+- 💬 Ask me about **Staistics,Machine Learning,DSA,Javascript,Java,Python**
 
 - 📫 How to reach me **phanidharguttikonda0@gmail.com**
 

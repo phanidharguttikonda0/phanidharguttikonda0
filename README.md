@@ -1,11 +1,11 @@
-# Welcome to My GitHub Profile
+# GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phanidharguttikonda0&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phanidharguttikonda0&show_icons=true&theme=radical&hide_title=true&count_private=true&include_all_commits=true&line_height=30)
 
-## Languages Used
+## Programming Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phanidharguttikonda0&layout=compact&theme=radical)
 
-## Contributions
+## Contribution Graph
 
-![Contribution Metrics](https://github-readme-streak-stats.herokuapp.com/?user=phanidharguttikonda0&theme=radical)\n
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=phanidharguttikonda0&theme=react-dark)

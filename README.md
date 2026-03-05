@@ -1,25 +1,20 @@
-# Professional GitHub Profile
+# Welcome to My Profile
 
-## Overview
-Welcome to my profile! I am passionate about programming and technology. Here you will find my projects, contributions, and insights into my learning journey.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phanidharguttikonda0&show_icons=true&theme=radical)
 
-## Skills
-- Python
-- JavaScript
-- Web Development
-- Data Analysis
+## Longest Commit Streak
+![Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=phanidharguttikonda0&theme=radical)
 
-## Projects
-1. **Portfolio Website** - A personal portfolio showcasing my work and skills.
-2. **Data Visualization Tool** - An interactive tool for visualizing data trends.
-3. **Machine Learning Models** - Various models to solve real-world problems.
+## Most Used Languages
+![Most Used Languages](https://github-readme-languages.vercel.app/api?username=phanidharguttikonda0&layout=compact&theme=radical)
 
-## Goals
-- Contribute to open-source projects.
-- Collaborate with other developers to create innovative solutions.
-- Continue learning and expanding my skill set.
+## Best Committed Projects
+- Project 1: [Project Link 1](#) - Description of project 1.
+- Project 2: [Project Link 2](#) - Description of project 2.
 
-## Contact
-Feel free to reach out to me:
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Email](mailto:yourname@example.com)
+## Top Projects with Skills
+### Project 1
+- Frameworks/Tech: Skill 1, Skill 2
+
+### Project 2
+- Frameworks/Tech: Skill 1, Skill 2

@@ -5,7 +5,7 @@ I architect, build, and scale production cloud backends, microservices, and asyn
 
 - 💼 **Available for:** Freelance sprints, cloud infrastructure automation, and backend scaling (15–20 hrs/week).
 - 💬 **Ask me about:** AWS (ECS Fargate, RDS Proxy, 3-Tier VPC, SQS), Rust (Tokio, Axum), Go, Spring Boot, and Concurrency.
-- 📬 **Reach out:** [guttikondaphanidharreddy@gmail.com](mailto:guttikondaphanidharreddy@gmail.com) | [LinkedIn](https://www.linkedin.com/in/phanidhar-reddy-guttikonda-321817233/) | [Portfolio](https://phani.services)
+- 📬 **Reach out:** [guttikondaphanidharreddy@gmail.com](mailto:guttikondaphanidharreddy@gmail.com) | [LinkedIn](https://www.linkedin.com/in/phanidhar-reddy-guttikonda-321817233/) | [Portfolio](https://phani.pro)
 
 ---
 
@@ -42,12 +42,11 @@ I architect, build, and scale production cloud backends, microservices, and asyn
 
 #### 2. Real-Time Distributed Auction Platform (Rust / Tokio)
 *High-throughput real-time bidding backend sustaining 10 concurrent auction rooms and 100+ WebSocket connections at 200ms intervals.*
-- Built with stateless **Rust (Axum)** and Redis atomic operations to eliminate race conditions[cite: 1, 19].
-- Engineered non-blocking disk-write execution via Tokio MPSC channels and DLQ retries, lowering message latency to **274ns** and saving **11ms** blocking DB overhead[cite: 1, 19].
-- Reduced p99 latency by **1.7x (85.2ms → 48.7ms)** while processing **1,200+ bids/sec** at 67.1 MB RAM under load[cite: 1, 19].
-- [Live Demo](https://ipl-auction.phani.services)
+- Built with stateless **Rust (Axum)** and Redis atomic operations to eliminate race conditions.
+- Engineered non-blocking disk-write execution via Tokio MPSC channels and DLQ retries, lowering message latency to **274ns** and saving **11ms** blocking DB overhead.
+- Reduced p99 latency by **1.7x (85.2ms → 48.7ms)** while processing **1,200+ bids/sec** at 67.1 MB RAM under load.
 
 #### 3. High-Throughput Microservices Platform (Java / Go / Kafka)
 *Event-driven microservice ecosystem (Identity, Timeline, Notifications).*
-- Built internal service-to-service communication via **gRPC over HTTP/2** with centralized REST API Gateway status mapping[cite: 1, 19].
-- Implemented high-throughput feed caching with Redis fan-out and decoupled event streaming using Kafka and AWS SQS with DLQs[cite: 1, 19].
+- Built internal service-to-service communication via **gRPC over HTTP/2** with centralized REST API Gateway status mapping.
+- Implemented high-throughput feed caching with Redis fan-out and decoupled event streaming using Kafka and AWS SQS with DLQs.
